@@ -1,5 +1,13 @@
 # HOW TO
 
+Make sure to have make
+
+```
+apt-get -y install make
+```
+
+Or else check the `Makefile` and look for the corresponding commands
+
 **One liner**
 
 ```

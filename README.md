@@ -1,5 +1,11 @@
 # HOW TO
 
+**One liner**
+
+```
+git clone --recursive https://github.com/Bloodyline/pivohub-test && make && make logs
+```
+
 **Download**
 
 ```
@@ -9,7 +15,7 @@ git clone --recursive https://github.com/Bloodyline/pivohub-test
 **Start everything**
 
 ```
-make up
+make
 ```
 
 **View outputs**

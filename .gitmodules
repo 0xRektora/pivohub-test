@@ -1,0 +1,8 @@
+[submodule "thebeerbookapi"]
+	path = thebeerbookapi
+	url = https://github.com/Bloodyline/thebeerbookapi
+	branch = master
+[submodule "thebeerbookapp"]
+	path = thebeerbookapp
+	url = https://github.com/Bloodyline/thebeerbookapp
+	branch = master

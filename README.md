@@ -3,7 +3,7 @@
 **One liner**
 
 ```
-git clone --recursive https://github.com/Bloodyline/pivohub-test && make && make logs
+git clone --recursive https://github.com/Bloodyline/pivohub-test && cd pivohub-test && make && make logs
 ```
 
 **Download**

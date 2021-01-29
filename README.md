@@ -1,5 +1,11 @@
 # HOW TO
 
+**Download**
+
+```
+git clone --recursive https://github.com/Bloodyline/pivohub-test
+```
+
 **Start everything**
 
 ```
